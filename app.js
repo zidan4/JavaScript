@@ -5,3 +5,5 @@ function fib(n){
    }
    return result
 }
+
+fib(10)
