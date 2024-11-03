@@ -1,9 +1,9 @@
-function fib(n){
-   let result
+function fibonacci(n){
+   let fib = [0, 1]
    for (let i = 0; i < n; i++) {
-    result = result[i - 1] + result[i - 2]
+    fib[i] = fib[i - 1] + fib[i - 2]
    }
-   return result
+   return fib
 }
 
-fib(10)
+fibonacci(10)
