@@ -1,3 +1,3 @@
 Data Structures and Algorithms
 
-Fibonacci algorithm.
+Fibonacci Algorithm.
